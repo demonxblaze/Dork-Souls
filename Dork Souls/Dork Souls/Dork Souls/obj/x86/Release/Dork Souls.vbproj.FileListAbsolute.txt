@@ -1,0 +1,14 @@
+C:\Users\Utilizador\Downloads\Dork Souls\Dork Souls\bin\Release\Dork Souls.exe.manifest
+C:\Users\Utilizador\Downloads\Dork Souls\Dork Souls\bin\Release\Dork Souls.application
+C:\Users\Utilizador\Downloads\Dork Souls\Dork Souls\bin\Release\Dork Souls.exe
+C:\Users\Utilizador\Downloads\Dork Souls\Dork Souls\bin\Release\Dork Souls.pdb
+C:\Users\Utilizador\Downloads\Dork Souls\Dork Souls\bin\Release\Dork Souls.xml
+C:\Users\Utilizador\Downloads\Dork Souls\Dork Souls\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\Utilizador\Downloads\Dork Souls\Dork Souls\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\Utilizador\Downloads\Dork Souls\Dork Souls\obj\x86\Release\Dork Souls.vbproj.GenerateResource.Cache
+C:\Users\Utilizador\Downloads\Dork Souls\Dork Souls\obj\x86\Release\Dork Souls.TrustInfo.xml
+C:\Users\Utilizador\Downloads\Dork Souls\Dork Souls\obj\x86\Release\Dork Souls.exe.manifest
+C:\Users\Utilizador\Downloads\Dork Souls\Dork Souls\obj\x86\Release\Dork Souls.application
+C:\Users\Utilizador\Downloads\Dork Souls\Dork Souls\obj\x86\Release\Dork Souls.exe
+C:\Users\Utilizador\Downloads\Dork Souls\Dork Souls\obj\x86\Release\Dork Souls.xml
+C:\Users\Utilizador\Downloads\Dork Souls\Dork Souls\obj\x86\Release\Dork Souls.pdb

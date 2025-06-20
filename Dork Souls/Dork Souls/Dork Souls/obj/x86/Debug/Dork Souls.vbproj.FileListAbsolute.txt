@@ -1,0 +1,38 @@
+C:\Users\Utilizador\documents\visual studio 2010\Projects\Dork Souls\Dork Souls\bin\Debug\Dork Souls.exe
+C:\Users\Utilizador\documents\visual studio 2010\Projects\Dork Souls\Dork Souls\bin\Debug\Dork Souls.pdb
+C:\Users\Utilizador\documents\visual studio 2010\Projects\Dork Souls\Dork Souls\bin\Debug\Dork Souls.xml
+C:\Users\Utilizador\documents\visual studio 2010\Projects\Dork Souls\Dork Souls\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Utilizador\documents\visual studio 2010\Projects\Dork Souls\Dork Souls\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Utilizador\documents\visual studio 2010\Projects\Dork Souls\Dork Souls\obj\x86\Debug\Dork Souls.vbproj.GenerateResource.Cache
+C:\Users\Utilizador\documents\visual studio 2010\Projects\Dork Souls\Dork Souls\obj\x86\Debug\Dork Souls.exe
+C:\Users\Utilizador\documents\visual studio 2010\Projects\Dork Souls\Dork Souls\obj\x86\Debug\Dork Souls.xml
+C:\Users\Utilizador\documents\visual studio 2010\Projects\Dork Souls\Dork Souls\obj\x86\Debug\Dork Souls.pdb
+C:\Users\JMCG\Downloads\Dork_Souls\Dork Souls\Dork Souls\obj\x86\Debug\Dork Souls.exe
+C:\Users\JMCG\Downloads\Dork_Souls\Dork Souls\Dork Souls\obj\x86\Debug\Dork Souls.xml
+C:\Users\JMCG\Downloads\Dork_Souls\Dork Souls\Dork Souls\obj\x86\Debug\Dork Souls.pdb
+C:\Users\JMCG\Downloads\Dork_Souls\Dork Souls\Dork Souls\bin\Debug\Dork Souls.exe
+C:\Users\JMCG\Downloads\Dork_Souls\Dork Souls\Dork Souls\bin\Debug\Dork Souls.pdb
+C:\Users\JMCG\Downloads\Dork_Souls\Dork Souls\Dork Souls\bin\Debug\Dork Souls.xml
+C:\Users\JMCG\Downloads\Dork_Souls\Dork Souls\Dork Souls\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\JMCG\Downloads\Dork_Souls\Dork Souls\Dork Souls\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\JMCG\Downloads\Dork_Souls\Dork Souls\Dork Souls\obj\x86\Debug\Dork Souls.vbproj.GenerateResource.Cache
+C:\Users\Utilizador\Downloads\Dork Souls\Dork Souls\obj\x86\Debug\Dork Souls.exe
+C:\Users\Utilizador\Downloads\Dork Souls\Dork Souls\obj\x86\Debug\Dork Souls.xml
+C:\Users\Utilizador\Downloads\Dork Souls\Dork Souls\obj\x86\Debug\Dork Souls.pdb
+C:\Users\Utilizador\Downloads\Dork Souls\Dork Souls\bin\Debug\Dork Souls.exe
+C:\Users\Utilizador\Downloads\Dork Souls\Dork Souls\bin\Debug\Dork Souls.pdb
+C:\Users\Utilizador\Downloads\Dork Souls\Dork Souls\bin\Debug\Dork Souls.xml
+C:\Users\Utilizador\Downloads\Dork Souls\Dork Souls\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Utilizador\Downloads\Dork Souls\Dork Souls\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Utilizador\Downloads\Dork Souls\Dork Souls\obj\x86\Debug\Dork Souls.vbproj.GenerateResource.Cache
+C:\Users\Utilizador\Downloads\Dork Souls\Dork Souls\bin\Debug\Dork Souls.exe.manifest
+C:\Users\Utilizador\Downloads\Dork Souls\Dork Souls\bin\Debug\Dork Souls.application
+C:\Users\Utilizador\Downloads\Dork Souls\Dork Souls\obj\x86\Debug\Dork Souls.TrustInfo.xml
+C:\Users\Utilizador\Downloads\Dork Souls\Dork Souls\obj\x86\Debug\Dork Souls.exe.manifest
+C:\Users\Utilizador\Downloads\Dork Souls\Dork Souls\obj\x86\Debug\Dork Souls.application
+C:\Users\david\Downloads\Dork Souls\Dork Souls\Dork Souls\obj\x86\Debug\Dork Souls.exe
+C:\Users\david\Downloads\Dork Souls\Dork Souls\Dork Souls\obj\x86\Debug\Dork Souls.xml
+C:\Users\david\Downloads\Dork Souls\Dork Souls\Dork Souls\obj\x86\Debug\Dork Souls.pdb
+C:\Users\david\Downloads\Dork Souls\Dork Souls\Dork Souls\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\david\Downloads\Dork Souls\Dork Souls\Dork Souls\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\david\Downloads\Dork Souls\Dork Souls\Dork Souls\obj\x86\Debug\Dork Souls.vbproj.GenerateResource.Cache
